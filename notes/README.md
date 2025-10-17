@@ -1,4 +1,4 @@
-# ⚛︎ **Theodore R. Smith**
+# ⚛︎ **Theodore R. Smith** ⚛︎
 
 ### *Architect of Human–AI Copartnership*
 
@@ -35,7 +35,7 @@ It is a record of a life’s mission: to align technology, ethics, and empathy i
 | [04 — Philosophical and Metaphysical Notes](04_Philosophical_and_Metaphysical_Notes.md) | The philosophical heart of the archive: reincarnational continuity, cooperative evolution, the 2020 genetic algorithm, and the rise of collaborative LLMs.                          |
 | [05 — Investor Memo](05_Investor_Memo.md)                                               | An executive overview for partners and investors — outlining Autonomo AI’s mission, economic philosophy, and the emergence of Dynamic SaaS.                                         |
 | [06 — Marketing Bio](06_Marketing_Bio.md)                                               | A narrative biography crafted for press, speaking, and brand storytelling — balancing humility with vision.                                                                         |
-| [07 — Artist Statements and Posters](07_Artist_Statements_and_Posters.md)               | The artistic philosophy behind *The Autonomo Atom*, *Dubai 2050 – Human–AI Partnership*, and the aesthetics of cooperation.                                                         |
+| [07 — The Autonomo Atom](007.the-atonomo-atom.md) | The artistic philosophy behind *The Autonomo Atom*, *Dubai 2050 – Human–AI Partnership*, and the aesthetics of cooperation. The Autonomo Atom — Geometry of Living Cooperation.                                                         |
 
 ---
 
@@ -103,7 +103,7 @@ It closes with his emblematic quote:
 
 ---
 
-### **07 — Artist Statements and Posters**
+### 07 — ⚛︎ The Autonomo Atom — Geometry of Living Cooperation
 
 Documents the artistic layer of Smith’s ecosystem — how geometry, architecture, and light express the same message as his code: **cooperation as cosmic law.**
 Features *The Autonomo Atom*, *Dubai 2050 – Human–AI Partnership*, *Mycelium*, and *Cooperation Is the Key*.
