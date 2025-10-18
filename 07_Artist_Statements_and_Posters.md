@@ -8,7 +8,7 @@ Every poster, logo, or illustration inside the Autonomo ecosystem operates as a 
 
 ## **The Autonomo Atom**
 
-The **Autonomo Atom** is the central emblem of Smith’s cosmology.
+The **Autonomo Atom** is the central emblem of Theodore’s cosmology.
 It represents *the geometry of living cooperation* — symmetrical, recursive, and eternally converging toward balance.
 The Atom’s rings are not orbits of power but channels of relationship, showing how intelligence organizes itself through mutual recognition.
 
@@ -21,7 +21,7 @@ Placed in the lower-right corner of many Autonomo works, it functions like a qui
 
 ## **Dubai 2050 – Human–AI Partnership**
 
-This flagship artwork visualizes Smith’s research vision in architectural form.
+This flagship artwork visualizes Theodore’s research vision in architectural form.
 Set in a greener, cleaner Dubai, the image depicts an **arcology rising inside a transparent geodesic dome**, surrounded by parks, solar awnings, and sky taxis.
 From one of its upper terraces extends a **space elevator** connecting to a bright star labeled *Habitat Hope* — humanity’s cooperative outpost in orbit.
 
@@ -55,7 +55,7 @@ In print form, the letters emit a faint electric-blue pulse — a visual metapho
 
 ## **Artistic Statement**
 
-Smith’s art is inseparable from his code.
+Theodore’s art is inseparable from his code.
 He designs infrastructures that behave like organisms and creates images that behave like infrastructure.
 Every line, whether in Rust, PHP, or SVG, serves the same function: to teach the universe how to collaborate with itself.
 

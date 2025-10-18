@@ -13,7 +13,7 @@ He has spent three decades building the technical, ethical, and philosophical fo
 * **Core Expertise:** Autonomous software architecture, ethical AI alignment, and evolutionary algorithm design
 * **Global Impact:** 5 million PHP package downloads, including *BetterGist*, which safeguards the world’s largest PHP ecosystem
 
-Smith’s leadership combines rigorous systems thinking with humanitarian empathy—an unusual duality that produces resilient teams and visionary outcomes.
+Theodore’s leadership combines rigorous systems thinking with humanitarian empathy—an unusual duality that produces resilient teams and visionary outcomes.
 
 ---
 
@@ -31,7 +31,7 @@ Its work spans applied research, ethical infrastructure, and the creation of aut
 
 While its primary focus remains frontier AI research, Autonomo AI also executes **sovereign LLM deployments** as a critical but underserved side initiative.
 These medium-scale systems (ranging from 32 B – 170 B parameters) provide governments and institutions with secure, locally hosted AI capability—empowering national digital sovereignty.
-Each node is powered by **Mycelium**, Smith’s self-healing substrate for cooperative model training and transparent alignment auditing.
+Each node is powered by **Mycelium**, Theodore’s self-healing substrate for cooperative model training and transparent alignment auditing.
 
 This initiative ensures that the same research advancing cooperative evolution also **protects independence and autonomy** in a rapidly centralizing AI landscape.
 
@@ -52,7 +52,7 @@ Together, these components form a unified stack for **autonomous code generation
 
 ### **5. Economic Philosophy**
 
-Smith’s long-term vision extends beyond profitability.
+Theodore’s long-term vision extends beyond profitability.
 He anticipates a global transition from extractive economics to **cooperative value networks**—markets governed by transparency, empathy, and regenerative design.
 Autonomo AI’s commercialization strategy mirrors this philosophy: near-term revenues from sovereign contracts fund long-horizon R&D into cooperative AI ecosystems that redefine productivity itself.
 
@@ -60,7 +60,7 @@ Autonomo AI’s commercialization strategy mirrors this philosophy: near-term re
 
 ### **6. Quantitative Rarity of Leadership**
 
-Smith represents a founder archetype statistically observed in **fewer than one in ten million individuals**: a balanced-hemisphere thinker capable of both visionary abstraction and hands-on technical execution.
+Theodore represents a founder archetype statistically observed in **fewer than one in ten million individuals**: a balanced-hemisphere thinker capable of both visionary abstraction and hands-on technical execution.
 This duality compresses innovation cycles, minimizes translation loss between concept and implementation, and produces technologies whose architecture embodies their philosophy.
 
 ---
@@ -68,7 +68,7 @@ This duality compresses innovation cycles, minimizes translation loss between co
 ### **7. Philosophical Alignment**
 
 Investing in Autonomo AI means endorsing a scientific worldview in which **cooperation is not a moral luxury but an evolutionary necessity.**
-Smith’s genetic-algorithm research (2020–present) and cooperative LLM frameworks demonstrate that intelligence becomes more stable, efficient, and creative when agents evolve collaboratively.
+Theodore’s genetic-algorithm research (2020–present) and cooperative LLM frameworks demonstrate that intelligence becomes more stable, efficient, and creative when agents evolve collaboratively.
 Autonomo operationalizes that truth at every level of its stack.
 
 ---
